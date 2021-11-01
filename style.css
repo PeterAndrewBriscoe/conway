@@ -1,0 +1,30 @@
+body{
+  background-color: #1111;
+  color: gold;
+}
+h1{
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold
+}
+p{
+  color:red;
+}
+
+#beginning-p{
+  color: green;
+  letter-spacing: 0px
+}
+
+#middle-p{
+  color: orange;
+}
+
+#end-p{
+  color: red;
+  font-size: 22px
+}
+
+.red-font{
+  color:red;
+}
